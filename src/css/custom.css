@@ -1,0 +1,36 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&display=swap');
+
+:root {
+  --ifm-color-primary: #1075a7;
+  --ifm-color-primary-dark: #0e6996;
+  --ifm-color-primary-darker: #0e638e;
+  --ifm-color-primary-darkest: #0b5275;
+  --ifm-color-primary-light: #1281b8;
+  --ifm-color-primary-lighter: #1287c0;
+  --ifm-color-primary-lightest: #1598d9;
+  --ifm-font-family-base: 'Work Sans', sans-serif;
+
+  --docusaurus-highlighted-code-line-bg: rgb(0 0 0 / 6%);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #228bc4;
+  --ifm-color-primary-dark: #197fb0;
+  --ifm-color-primary-darker: #197fb0;
+  --ifm-color-primary-darkest: #197fb0;
+  --ifm-color-primary-light: #1281b8;
+  --ifm-color-primary-lighter: #1287c0;
+  --ifm-color-primary-lightest: #1598d9;
+  --ifm-font-family-base: 'Work Sans', sans-serif;
+  --ifm-hero-text-color: white;
+  --ifm-font-color-base-inverse: white;
+  --docusaurus-highlighted-code-line-bg: rgb(255 255 255 / 6%);
+}
