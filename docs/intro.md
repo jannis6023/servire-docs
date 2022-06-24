@@ -43,10 +43,12 @@ Die Gaststättenauswahl wird auch dann relevant, wenn Sie teil mehrerer Gaststä
 ![](./assets/screenshot_ios_auth.PNG)
 
 ## Erste Schritte in der App
-Nach Start der ersten Schicht wird Ihnen der Tischplan präsentiert.
+Nach Start der ersten [Schicht](/docs/category/schichten) wird Ihnen der Tischplan präsentiert.
 Durch horizontales swipen über den Bildschirm können Sie zwischen Bereichen, wie z.B. dem Außen- oder Innenbereich wechseln.
 :::tip Übrigens:
 Blau hervorgehobene Tische enthalten bereits Bestellungen / Buchungen, andere Tische sind noch unbelegt.
 :::
+
+![](./assets/screenshot_intro.PNG)
 
 Wie Sie Ihre erste Bestellung annehmen, erfahren Sie in dem dazugehörigen Guide!
